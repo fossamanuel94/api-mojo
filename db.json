@@ -6,7 +6,7 @@
         {"nombre":"Aceite", "cantidad": "30ml"},
         {"nombre":"Salsa de Tomate", "cantidad": "300g"},
         {"nombre":"Muzzarella", "cantidad": "400g"},
-        {"nombre":"Aceitunas", "cantidad": "C/N"},
-        {"nombre":"Orégano", "cantidad": "C/N"}
+        {"nombre":"Aceitunas", "cantidad": "Cant/N"},
+        {"nombre":"Orégano", "cantidad": "Cant/N"}
     ]
 }
