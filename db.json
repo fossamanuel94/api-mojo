@@ -1,3 +1,12 @@
 {
-    "ingredientes": ["Harina 000", "Sal", "Levadura", "Aceite", "Salsa de Tomate", "Muzzarella", "Aceitunas"]
+    "ingredientes":[
+        {"nombre":"Harina 000", "cantidad": "500g"},
+        {"nombre":"Levadura", "cantidad": "5g"},
+        {"nombre":"Sal", "cantidad": "10g"},
+        {"nombre":"Aceite", "cantidad": "30ml"},
+        {"nombre":"Salsa de Tomate", "cantidad": "300g"},
+        {"nombre":"Muzzarella", "cantidad": "400g"},
+        {"nombre":"Aceitunas", "cantidad": "C/N"},
+        {"nombre":"Orégano", "cantidad": "C/N"}
+    ]
 }
